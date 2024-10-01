@@ -11,14 +11,12 @@ In this challenge, we used a dataset of historical lending activity from a peer-
 5. Evaluate the model's performance using a confusion matrix, accuracy score, precision score, and recall score.
 
 # Results
-Model Accuracy: 99.37%
-Model Precision: 84.37%
-Model Recall: 98.55%
+Model Accuracy: 99.37% | Model Precision: 84.37% | Model Recall: 98.55%
 
 Confusion Matrix:
-          Predicted 0  Predicted 1
-Actual 0        18652          113
-Actual 1            9          610
+Predicted 0 | Predicted 1
+Actual 0    |    18652     |      113
+Actual 1    |        9     |     610
 
 # Summary
 The model performs very well, predicting the healthy loan labels with 99.4% accuracy and the high-risk loan labels with 98.5% accuracy.
